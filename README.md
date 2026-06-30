@@ -111,7 +111,7 @@ Located in `firmware/f450_rfid_delivery/`, this project represents a quadcopter 
 Below are photos of the completed RFID-authenticated F450 quadcopter prototype:
 
 #### 1. Secure Container Box Locking & RFID Swipe Antenna
-![RFID Card Swiping Lock Check](images/img 1.jpeg)
+![RFID Card Swiping Lock Check](images/img_1.jpeg)
 
 #### 2. Cargo Box Container Mounted Underneath Frame
 ![Secure Container Box Mounting](images/img 2.jpeg)
