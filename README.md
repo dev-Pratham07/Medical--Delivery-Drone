@@ -45,7 +45,7 @@ This project implements a **Dual-Locomotion Convertible Drone** that transitions
 ### 🔧 Flight Controller Wiring
 Below is the physical wiring layout of the Arduino UNO flight controller core:
 
-![Arduino UNO Flight Controller Wiring and Electronics](images/img 3.jpeg)
+![Arduino UNO Flight Controller Wiring and Electronics](images/img_3.jpeg)
 
 ---
 
@@ -114,10 +114,10 @@ Below are photos of the completed RFID-authenticated F450 quadcopter prototype:
 ![RFID Card Swiping Lock Check](images/img_1.png)
 
 #### 2. Cargo Box Container Mounted Underneath Frame
-![Secure Container Box Mounting](images/img 2.jpeg)
+![Secure Container Box Mounting](images/img_2.jpeg)
 
 #### 3. Full Prototype Assembly and RC Transmitter
-![F450 Medical Cargo Drone Prototype](images/img 4.jpeg)
+![F450 Medical Cargo Drone Prototype](images/img_4.jpeg)
 
 ---
 
